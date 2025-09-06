@@ -27,14 +27,20 @@ While building this project, I learned:
 ## 🚀 Getting Started
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Shifana-Ranth/weather-app.git```
+   git clone https://github.com/Shifana-Ranth/weather-app.git
+   ```
+   
 2.Install dependencies:
   ```bash
-  npm install```
+  npm install
+   ```
+
 3.Add your OpenWeather API key in the code (inside App.jsx or config).
+
 4.Run the project:
   ```bash
-  npm run dev```
+  npm run dev
+   ```
 
 ## 🔑 API Reference
 - [OpenWeather API](https://openweathermap.org/api)
