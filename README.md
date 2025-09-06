@@ -1,12 +1,47 @@
-# React + Vite
+# 🌦️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Weather App** built with **React** and **Material UI**, using the **OpenWeather API** to fetch real-time weather data by city names.  
 
-Currently, two official plugins are available:
+## ✨ Features
+- Search weather by **city name** 🌍
+- Displays temperature, weather condition, and icons ☀️🌧️❄️
+- Clean and responsive UI with **Material UI** 🎨
+- Dynamic weather info updates using **React state and props** ⚡
+- Gradient background for a modern look 💫
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **React** (Vite setup)
+- **Material UI**
+- **OpenWeather API**
+- **JavaScript (ES6+)**
+- **CSS / Flexbox**
 
-## Expanding the ESLint configuration
+## 📚 What I Learned
+While building this project, I learned:
+- How to use **React `useState` and `useEffect` hooks** for handling state and side effects.
+- Passing data using **props**.
+- Fetching data from an external API using `fetch`.
+- Implementing responsive UI with **Material UI components**.
+- Managing project structure in a React app.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Shifana-Ranth/weather-app.git
+2.Install dependencies:
+  ```bash
+  npm install
+3.Add your OpenWeather API key in the code (inside App.jsx or config).
+4.Run the project:
+  ```bash
+  npm run dev
+
+## 🔑 API Reference
+- [OpenWeather API](https://openweathermap.org/api)
+
+## 🖊️ Conclusion
+
+This project helped me explore and practice React hooks (useState, useEffect), working with props and state, integrating Material UI for styling, and consuming external APIs like OpenWeather.
+
+✨ This Weather App is a milestone in my React learning journey.
+👩‍💻 Created with dedication and passion by Shifana Ranth.
