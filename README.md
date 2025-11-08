@@ -45,6 +45,10 @@ While building this project, I learned:
 ## 🔑 API Reference
 - [OpenWeather API](https://openweathermap.org/api)
 
+## Image
+<img width="933" height="865" alt="image" src="https://github.com/user-attachments/assets/2ee8b75f-b88e-4a22-bc29-7d06b6cebad4" />
+
+
 ## 🖊️ Conclusion
 
 This project helped me explore and practice React hooks (useState, useEffect), working with props and state, integrating Material UI for styling, and consuming external APIs like OpenWeather.
